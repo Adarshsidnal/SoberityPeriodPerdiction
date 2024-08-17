@@ -20,5 +20,6 @@ Admin login details:  email: 'admin@admin.com',
 
 ## Demo
 
-Watch the demo video to see the application in action: [Demo Video](<./vedio.mp4>).
-
+<video src="./vedio.mp4" controls width="600">
+  Your browser does not support the video tag.
+</video>
