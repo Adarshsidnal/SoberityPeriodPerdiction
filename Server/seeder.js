@@ -16,8 +16,6 @@ const importData = async () => {
   try {
     await User.deleteMany();
     await Location.deleteMany();
-
-
     const createdUsers = await User.insertMany(users);
     const createdLocation = await Location.insertMany(locations);
 
