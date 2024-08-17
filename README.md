@@ -20,6 +20,6 @@ Admin login details:  email: 'admin@admin.com',
 
 ## Demo
 
-<video src="./vedio.mp4" controls width="600">
+<video src="<./vedio.mp4>" controls width="600">
   Your browser does not support the video tag.
 </video>
